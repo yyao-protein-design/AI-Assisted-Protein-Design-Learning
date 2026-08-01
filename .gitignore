@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda environments
+.env
+.conda/
+
+# Large data files
+*.csv
+*.fasta
+*.pdb
+*.pt
+*.pth
+*.ckpt
+
+# OS files
+.DS_Store
+Thumbs.db
